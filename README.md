@@ -6,3 +6,7 @@ James Whitaker
 Brian W. Knight
 
 Chasity Castro 
+
+Colin Barr
+
+David Beckley
